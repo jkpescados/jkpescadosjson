@@ -1,0 +1,73 @@
+{
+  "restaurant": {
+    "name": "JK Pescados",
+    "description": "Peixes congelados Premium direto para você!",
+    "phone": "(19) 97809-6203",
+    "address": "Parque Ceasa, Campinas - SP",
+    "hours": "Seg-Dom: 8:00-18:00"
+  },
+  "categories": [
+    {
+      "id": "peixe",
+      "name": "Peixes",
+      "icon": "🐟"
+    },
+    {
+      "id": "congelado",
+      "name": "Congelados",
+      "icon": "🍽️"
+    },
+    {
+      "id": "salgado",
+      "name": "Salgados",
+      "icon": "🍽️"
+    },
+    {
+      "id": "polpa",
+      "name": "Polpas",
+      "icon": "🍽️"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "category": "peixe",
+      "name": "Filé de tilápia 1kg",
+      "description": "Filé de tilápia",
+      "price": 52.90,
+      "unit": "1kg",
+      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "category": "congelado",
+      "name": "Camarão empanado",
+      "description": "Camarão empanado com mussarela",
+      "price": 42.00,
+      "unit": "12 un",
+      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "available": true
+    },
+    {
+      "id": 3,
+      "category": "peixe",
+      "name": "Filé de tilápia 500g",
+      "description": "Filé de tilápia",
+      "price": 26.90,
+      "unit": "500g",
+      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "available": true
+    },
+    {
+      "id": 4,
+      "category": "salgado",
+      "name": "Coxinha 12un",
+      "description": "Pacote de coxinha congelada com 12 unidades",
+      "price": 30.00,
+      "unit": "12un",
+      "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
+      "available": false
+    }
+  ]
+}
