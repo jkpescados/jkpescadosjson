@@ -61,6 +61,16 @@
     },
     {
       "id": 4,
+      "category": "peixe",
+      "name": "Isca de tilápia 500g",
+      "description": "Isca de tilápia",
+      "price": 32.90,
+      "unit": "500g",
+      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "available": true
+    },
+    {
+      "id": 5,
       "category": "salgado",
       "name": "Coxinha 12un",
       "description": "Pacote de coxinha congelada com 12 unidades",
@@ -68,6 +78,17 @@
       "unit": "12un",
       "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
       "available": false
+    },
+    {
+      "id": 6,
+      "category": "salgado",
+      "name": "Bolinho Bacalhau 12un",
+      "description": "Pacote de Bolinho bacalhau congelada com 12 unidades",
+      "price": 38.00,
+      "unit": "12un",
+      "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
+      "available": false
     }
   ]
+
 }
