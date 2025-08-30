@@ -53,7 +53,7 @@
       "description": "Filé de tilápia Premium",
       "price": 49.90,
       "unit": "1kg",
-      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "image": "https://i.postimg.cc/VNv3d0KQ/Whats-App-Image-2025-08-30-at-13-59-06.jpg",
       "available": true
     },
     {
@@ -63,7 +63,7 @@
       "description": "Camarão empanado com mussarela",
       "price": 40.00,
       "unit": "12 un",
-      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "image": "https://i.postimg.cc/qMXfYTNY/Whats-App-Image-2025-08-30-at-14-01-36.jpg",
       "available": true
     },
     {
@@ -73,7 +73,7 @@
       "description": "Filé de tilápia Premium",
       "price": 24.90,
       "unit": "500g",
-      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "image": "https://i.postimg.cc/VNv3d0KQ/Whats-App-Image-2025-08-30-at-13-59-06.jpg",
       "available": true
     },
     {
@@ -83,7 +83,7 @@
       "description": "Isca de tilápia Premium",
       "price": 29.90,
       "unit": "500g",
-      "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
+      "image": "https://i.postimg.cc/KzkSs3Tr/iscas-de-tilapia-623x350.jpg",
       "available": true
     },
     {
@@ -118,6 +118,7 @@
     }
   ]
 }
+
 
 
 
