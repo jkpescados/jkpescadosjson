@@ -99,7 +99,7 @@
       "category": "salgado",
       "name": "Bolinho Bacalhau 12un",
       "description": "Pacote de Bolinho bacalhau congelada com 12 unidades",
-      "price": 38.00,
+      "price": 34.90,
       "unit": "12un",
       "image": "https://i.postimg.cc/6pn8FTrK/R.jpg",
       "available": false
@@ -116,6 +116,7 @@
     }
   ]
 }
+
 
 
 
