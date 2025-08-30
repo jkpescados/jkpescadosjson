@@ -6,6 +6,18 @@
     "address": "Parque Ceasa, Campinas - SP",
     "hours": "Seg-Dom: 8:00-18:00"
   },
+  "cidadesPermitidas": [
+    "Sumaré",
+    "Hortolândia",
+    "Paulínia",
+    "Campinas",
+    "Valinhos",
+    "Vinhedo",
+    "Holambra",
+    "Indaiatuba",
+    "Salto",
+    "Itu",
+  ],
   "categories": [
     {
       "id": "peixe",
@@ -105,10 +117,4 @@
       "available": false
     }
   ]
-
 }
-
-
-
-
-
