@@ -91,7 +91,7 @@
       "category": "salgado",
       "name": "Coxinha 12un",
       "description": "Pacote de coxinha congelada com 12 unidades",
-      "price": 30.00,
+      "price": 30.10,
       "unit": "12un",
       "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
       "available": false
@@ -118,3 +118,4 @@
     }
   ]
 }
+
