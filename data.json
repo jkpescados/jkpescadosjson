@@ -50,7 +50,7 @@
       "id": 1,
       "category": "peixe",
       "name": "Filé de tilápia 1kg",
-      "description": "Filé de tilápia",
+      "description": "Filé de tilápia Premium",
       "price": 49.90,
       "unit": "1kg",
       "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
@@ -70,7 +70,7 @@
       "id": 3,
       "category": "peixe",
       "name": "Filé de tilápia 500g",
-      "description": "Filé de tilápia",
+      "description": "Filé de tilápia Premium",
       "price": 24.90,
       "unit": "500g",
       "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
@@ -80,7 +80,7 @@
       "id": 4,
       "category": "peixe",
       "name": "Isca de tilápia 500g",
-      "description": "Isca de tilápia",
+      "description": "Isca de tilápia Premium",
       "price": 29.90,
       "unit": "500g",
       "image": "https://orcapescados.com.br/wp-content/uploads/2016/04/Saint-peter.jpg",
@@ -118,5 +118,6 @@
     }
   ]
 }
+
 
 
