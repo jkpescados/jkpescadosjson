@@ -15,17 +15,17 @@
     {
       "id": "congelado",
       "name": "Congelados",
-      "icon": "🍽️"
+      "icon": "🧊"
     },
     {
       "id": "salgado",
       "name": "Salgados",
-      "icon": "🍽️"
+      "icon": "🥟"
     },
     {
       "id": "polpa",
       "name": "Polpas",
-      "icon": "🍽️"
+      "icon": "🍓"
     }
   ],
   "items": [
@@ -102,4 +102,5 @@
   ]
 
 }
+
 
