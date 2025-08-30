@@ -53,7 +53,7 @@
       "description": "Filé de tilápia Premium",
       "price": 49.90,
       "unit": "1kg",
-      "image": "https://i.postimg.cc/VNv3d0KQ/Whats-App-Image-2025-08-30-at-13-59-06.jpg",
+      "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
       "available": true
     },
     {
@@ -73,7 +73,7 @@
       "description": "Filé de tilápia Premium",
       "price": 24.90,
       "unit": "500g",
-      "image": "https://i.postimg.cc/VNv3d0KQ/Whats-App-Image-2025-08-30-at-13-59-06.jpg",
+      "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
       "available": true
     },
     {
@@ -118,6 +118,7 @@
     }
   ]
 }
+
 
 
 
