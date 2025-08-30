@@ -91,9 +91,9 @@
       "category": "salgado",
       "name": "Coxinha 12un",
       "description": "Pacote de coxinha congelada com 12 unidades",
-      "price": 30.10,
+      "price": 24.90,
       "unit": "12un",
-      "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
+      "image": "https://i.postimg.cc/FHMjJ2Zr/48004218-5816-406b-8370-10a2475b0bfc.jpg",
       "available": false
     },
     {
@@ -103,7 +103,7 @@
       "description": "Pacote de Bolinho bacalhau congelada com 12 unidades",
       "price": 38.00,
       "unit": "12un",
-      "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
+      "image": "https://i.postimg.cc/6pn8FTrK/R.jpg",
       "available": false
     },
     {
@@ -118,6 +118,7 @@
     }
   ]
 }
+
 
 
 
