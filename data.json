@@ -88,7 +88,18 @@
       "unit": "12un",
       "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
       "available": false
+    },
+    {
+      "id": 7,
+      "category": "polpa",
+      "name": "Polpa de Morango",
+      "description": "Polpa de Morango 50g",
+      "price": 5.00,
+      "unit": "12un",
+      "image": "https://i.pinimg.com/736x/ef/f4/63/eff4638c5f39de96f910362ebfa7f087.jpg",
+      "available": false
     }
   ]
 
 }
+
