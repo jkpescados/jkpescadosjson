@@ -26,6 +26,11 @@
       "id": "polpa",
       "name": "Polpas",
       "icon": "🍓"
+    },
+    {
+      "id": "bebida",
+      "name": "Bebidas",
+      "icon": "🍻"
     }
   ],
   "items": [
@@ -102,5 +107,6 @@
   ]
 
 }
+
 
 
