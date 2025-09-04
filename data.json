@@ -2,8 +2,7 @@
   "restaurant": {
     "name": "JK Pescados",
     "description": "Peixes congelados Premium direto para você!",
-    "description": "🚚Entrega a combinar",
-    "description": "📍Retirada com hora marcada",
+    "description": "📍Retirada com hora marcada 🚚Entrega a combinar",
     "phone": "(19) 97809-6203",
     "address": "Parque Ceasa, Campinas - SP",
     "hours": "Seg-Dom: 8:00-18:00"
@@ -115,6 +114,7 @@
     }
   ]
 }
+
 
 
 
