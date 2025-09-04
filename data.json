@@ -76,7 +76,7 @@
       "category": "peixe",
       "name": "Isca de tilápia 500g",
       "description": "Isca de tilápia Premium",
-      "price": 29.90,
+      "price": 24.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/KzkSs3Tr/iscas-de-tilapia-623x350.jpg",
       "available": true
@@ -113,6 +113,7 @@
     }
   ]
 }
+
 
 
 
