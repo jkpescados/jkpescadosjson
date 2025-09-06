@@ -115,9 +115,7 @@
       "unit": "50g",
       "image": "https://i.postimg.cc/nLd9GgK9/frutas-1024x662.png",
       "available": false
-    }
-  ]
-},
+     },
    {
       "id": 8,
       "category": "peixe",
@@ -142,6 +140,7 @@
       "image": "https://i.postimg.cc/4dvV2y5F/0c2a1fc8-6c3d-430f-97c7-56b5de77880f.jpg",
       "available": true
       },
+
 
 
 
