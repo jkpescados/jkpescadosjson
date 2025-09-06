@@ -121,10 +121,20 @@
       "category": "peixe",
       "name": "Salmão",
       "description": "Peça salmão",
-      "price": 89,
-      "unit": "1k",
+      "price": 89.90,
+      "unit": "kg",
       "image": "https://i.postimg.cc/MH8tXgsg/file-de-salmao-2.png",
       "available": true
-    }
+    },
+    {
+    "id": 9,
+      "category": "peixe",
+      "name": "Traira",
+      "description": "Peça sem espinho",
+      "price": 59.90,
+      "unit": "kg",
+      "image": "https://i.postimg.cc/4dvV2y5F/0c2a1fc8-6c3d-430f-97c7-56b5de77880f.jpg",
+      "available": true
   ]
 }
+
