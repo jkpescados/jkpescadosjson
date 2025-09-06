@@ -124,7 +124,7 @@
       "price": 89.90,
       "unit": "kg",
       "image": "https://i.postimg.cc/MH8tXgsg/file-de-salmao-2.png",
-      "available": true
+      "available": false
     },
     {
     "id": 9,
@@ -134,7 +134,17 @@
       "price": 59.90,
       "unit": "kg",
       "image": "https://i.postimg.cc/4dvV2y5F/0c2a1fc8-6c3d-430f-97c7-56b5de77880f.jpg",
-      "available": true
+      "available": false
     }
+    {
+    "id": 9,
+      "category": "peixe",
+      "name": "Costelinha de Tambaqui",
+      "description": "500g",
+      "price": 24.90,
+      "unit": "500g",
+      "image": "https://i.postimg.cc/7Lxy9fZh/Whats-App-Image-2025-09-06-at-14-36-29.jpg",
+      "available": false
     ]
    }
+
