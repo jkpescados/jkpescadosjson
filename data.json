@@ -135,9 +135,9 @@
       "unit": "kg",
       "image": "https://i.postimg.cc/4dvV2y5F/0c2a1fc8-6c3d-430f-97c7-56b5de77880f.jpg",
       "available": false
-    }
+    },
     {
-    "id": 9,
+    "id": 10,
       "category": "peixe",
       "name": "Costelinha de Tambaqui",
       "description": "500g",
@@ -147,4 +147,5 @@
       "available": false
     ]
    }
+
 
