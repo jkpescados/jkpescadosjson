@@ -104,7 +104,7 @@
       "price": 34.90,
       "unit": "12un",
       "image": "https://i.postimg.cc/6pn8FTrK/R.jpg",
-      "available": false
+      "available": true
     },
     {
       "id": 7,
@@ -124,7 +124,7 @@
       "price": 89.90,
       "unit": "kg",
       "image": "https://i.postimg.cc/MH8tXgsg/file-de-salmao-2.png",
-      "available": false
+      "available": true
     },
     {
     "id": 9,
@@ -134,7 +134,7 @@
       "price": 59.90,
       "unit": "kg",
       "image": "https://i.postimg.cc/4dvV2y5F/0c2a1fc8-6c3d-430f-97c7-56b5de77880f.jpg",
-      "available": false
+      "available": true
     },
     {
     "id": 10,
@@ -144,7 +144,7 @@
       "price": 24.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/7Lxy9fZh/Whats-App-Image-2025-09-06-at-14-36-29.jpg",
-      "available": false
+      "available": true
     },
         {
     "id": 11,
@@ -154,8 +154,9 @@
       "price": 21.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/8zVyCHBf/Captura-de-tela-2025-09-07-072121.jpg",
-      "available": false
+      "available": true
     }
     ]
     }
+
 
