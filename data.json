@@ -28,9 +28,9 @@
       "icon": "🐟"
     },
     {
-      "id": "congelado",
-      "name": "Congelados",
-      "icon": "🧊"
+      "id": "camarao",
+      "name": "Camarão",
+      "icon": "🍤"
     },
     {
       "id": "salgado",
@@ -58,7 +58,7 @@
     },
     {
       "id": 2,
-      "category": "congelado",
+      "category": "camarao",
       "name": "Camarão empanado",
       "description": "Camarão empanado com mussarela",
       "price": 40.00,
@@ -158,6 +158,7 @@
     }
     ]
     }
+
 
 
 
