@@ -71,7 +71,7 @@
       "category": "peixe",
       "name": "Filé de tilápia 500g",
       "description": "Filé de tilápia Premium",
-      "price": 24.90,
+      "price": 25.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
       "available": true
@@ -81,7 +81,7 @@
       "category": "peixe",
       "name": "Isca de tilápia 500g",
       "description": "Isca de tilápia Premium",
-      "price": 24.90,
+      "price": 25.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/KzkSs3Tr/iscas-de-tilapia-623x350.jpg",
       "available": true
@@ -121,7 +121,7 @@
       "category": "peixe",
       "name": "Salmão",
       "description": "Peça salmão",
-      "price": 89.90,
+      "price": 94.90,
       "unit": "kg",
       "image": "https://i.postimg.cc/MH8tXgsg/file-de-salmao-2.png",
       "available": true
@@ -165,6 +165,17 @@
       "unit": "800g",
       "image": "https://i.postimg.cc/mgBLj08R/unnamed.jpg",
       "available": true
-    }
+    },
+      {
+      "id": 13,
+      "category": "camarão",
+      "name": "Camarão Descascado",
+      "description": "camarão descascado",
+      "price": 26.90,
+      "unit": "500g",
+      "image": "https://i.postimg.cc/qqPZdPN8/camarao-7-barbas.png",
+      "available": true
+    },
     ]
     }
+
