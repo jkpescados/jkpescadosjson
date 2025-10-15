@@ -49,8 +49,6 @@
       "category": "peixe",
       "name": "Filé de tilápia 1kg",
       "description": "Filé de tilápia Premium",
-      "description1": "Descrição 1",
-      "description2": "Descrição 2",
       "price": 49.90,
       "unit": "1kg",
       "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
@@ -188,6 +186,7 @@
     }
   ]
 }
+
 
 
 
