@@ -47,7 +47,7 @@
     {
       "id": 1,
       "category": "peixe",
-      "name": "Filé de tilápia 1kg",
+      "name": "Filé de tilápia",
       "description": "Premium",
       "price": 49.90,
       "unit": "1kg",
@@ -67,7 +67,7 @@
     {
       "id": 3,
       "category": "peixe",
-      "name": "Filé de tilápia 500g",
+      "name": "Filé de tilápia",
       "description": "Premium",
       "price": 25.90,
       "unit": "500g",
@@ -77,7 +77,7 @@
     {
       "id": 4,
       "category": "peixe",
-      "name": "Isca de tilápia 500g",
+      "name": "Isca de tilápia",
       "description": "Premium",
       "price": 25.90,
       "unit": "500g",
@@ -87,7 +87,7 @@
         {
       "id": 14,
       "category": "peixe",
-      "name": "Isca de tilápia empanada 500g",
+      "name": "Isca de tilápia empanada",
       "description": "500g",
       "price": 34.90,
       "unit": "500g",
@@ -158,7 +158,7 @@
       "id": 11,
       "category": "peixe",
       "name": "Lambari",
-      "description": "500g",
+      "description": "Limpo 500g",
       "price": 21.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/8zVyCHBf/Captura-de-tela-2025-09-07-072121.jpg",
@@ -186,6 +186,7 @@
     }
   ]
 }
+
 
 
 
