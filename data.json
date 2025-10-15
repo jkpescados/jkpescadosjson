@@ -168,7 +168,7 @@
       "id": 12,
       "category": "peixe",
       "name": "Merluza",
-      "description": "filé de Merluza",
+      "description": "Filé de Merluza",
       "price": 32.90,
       "unit": "800g",
       "image": "https://i.postimg.cc/mgBLj08R/unnamed.jpg",
@@ -186,6 +186,7 @@
     }
   ]
 }
+
 
 
 
