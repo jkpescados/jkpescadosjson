@@ -91,7 +91,7 @@
       "category": "peixe",
       "name": "Isca de tilápia empanada 500g",
       "description": "Isca de tilápia empanada 500g",
-      "price": 24.90,
+      "price": 34.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/MHWfnrBh/Whats-App-Image-2025-10-14-at-11-17-21.jpg",
       "available": true
@@ -188,6 +188,7 @@
     }
   ]
 }
+
 
 
 
