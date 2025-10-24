@@ -2,8 +2,8 @@
   "restaurant": {
     "name": "JK Pescados",
     "description": "Peixes congelados Premium direto para você!",
-    "description": "📍 Retirada com hora marcada",
-    "description": "🚚 Entrega a combinar",
+    "description1": "📍 Retirada com hora marcada",
+    "description2": "🚚 Entrega a combinar",
     "phone": "(19) 97809-6203",
     "address": "Parque Ceasa, Campinas - SP",
     "hours": "Seg-Dom: 8:00-20:00",
@@ -84,7 +84,7 @@
       "image": "https://i.postimg.cc/P5tz5cJG/Whats-App-Image-2025-10-13-at-20-57-16.jpg",
       "available": true
     },
-        {
+    {
       "id": 14,
       "category": "peixe",
       "name": "Isca de tilápia empanada",
@@ -186,20 +186,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
