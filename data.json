@@ -184,6 +184,16 @@
       "image": "https://thumbs.dreamstime.com/b/raw-fish-manjuba-pititinga-ginga-manjubinha-anchoviella-lepidentostole-portrait-raw-fish-manjuba-pititinga-ginga-247358847.jpg",
       "available": true
     },
+     {
+      "id": 15,
+      "category": "peixe",
+      "name": "Cubo de Anjo PANGA",
+      "description": "500g",
+      "price": 21.90,
+      "unit": "500g",
+      "image": "https://st4.depositphotos.com/1525739/19854/i/450/depositphotos_198547226-stock-photo-frozen-pangasius-dory-fish-cut.jpg",
+      "available": true
+    },
     {
       "id": 13,
       "category": "camarao",
@@ -196,4 +206,5 @@
     }
   ]
 }
+
 
