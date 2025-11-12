@@ -198,7 +198,7 @@
       "id": 16,
       "category": "salgado",
       "name": "Bolinho de Salmão c/ creem cheese",
-      "description": "Pacote de Bolinho congelada com 12 unidades12un",
+      "description": "Pacote de Bolinho congelada com 12 unidades",
       "price": 45.00,
       "unit": "12un",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bUYukPlE7WJeYzj-KH6Io6pAAYCG2RCLaAO-zFX3mZGOqsnUy6J8k1-XXF04cNwVU18&usqp=CAU",
@@ -216,6 +216,7 @@
     }
   ]
 }
+
 
 
 
