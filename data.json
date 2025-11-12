@@ -88,7 +88,7 @@
       "id": 16,
       "category": "peixe",
       "name": "Isca de tilápia empanada",
-      "description": "500g",
+      "description": "500g Pronto para fritar",
       "price": 34.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/MHWfnrBh/Whats-App-Image-2025-10-14-at-11-17-21.jpg",
@@ -178,7 +178,7 @@
       "id": 14,
       "category": "peixe",
       "name": "Manjuba",
-      "description": "500g",
+      "description": "Limpo 500g",
       "price": 19.90,
       "unit": "500g",
       "image": "https://thumbs.dreamstime.com/b/raw-fish-manjuba-pititinga-ginga-manjubinha-anchoviella-lepidentostole-portrait-raw-fish-manjuba-pititinga-ginga-247358847.jpg",
@@ -196,9 +196,9 @@
     },
        {
       "id": 16,
-      "category": "salgados",
-      "name": "Bolinho de Salmão",
-      "description": "12un",
+      "category": "salgado",
+      "name": "Bolinho de Salmão c/ creem cheese",
+      "description": "Pacote de Bolinho congelada com 12 unidades12un",
       "price": 45.00,
       "unit": "12un",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bUYukPlE7WJeYzj-KH6Io6pAAYCG2RCLaAO-zFX3mZGOqsnUy6J8k1-XXF04cNwVU18&usqp=CAU",
@@ -216,6 +216,7 @@
     }
   ]
 }
+
 
 
 
