@@ -85,7 +85,7 @@
       "available": true
     },
     {
-      "id": 14,
+      "id": 16,
       "category": "peixe",
       "name": "Isca de tilápia empanada",
       "description": "500g",
@@ -194,6 +194,16 @@
       "image": "https://st4.depositphotos.com/1525739/19854/i/450/depositphotos_198547226-stock-photo-frozen-pangasius-dory-fish-cut.jpg",
       "available": true
     },
+       {
+      "id": 16,
+      "category": "salgados",
+      "name": "Bolinho de Salmão",
+      "description": "12un",
+      "price": 45.00,
+      "unit": "12un",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bUYukPlE7WJeYzj-KH6Io6pAAYCG2RCLaAO-zFX3mZGOqsnUy6J8k1-XXF04cNwVU18&usqp=CAU",
+      "available": true
+    },
     {
       "id": 13,
       "category": "camarao",
@@ -206,5 +216,6 @@
     }
   ]
 }
+
 
 
