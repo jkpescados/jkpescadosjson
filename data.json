@@ -159,7 +159,7 @@
       "category": "peixe",
       "name": "Costelinha de Tambaqui",
       "description": "500g",
-      "price": 24.90,
+      "price": 25.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/ydXYLskn/costela-de-tambaqui.png",
       "available": true
@@ -169,7 +169,7 @@
       "category": "peixe",
       "name": "Lambari",
       "description": "Limpo 500g",
-      "price": 21.90,
+      "price": 22.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/8zVyCHBf/Captura-de-tela-2025-09-07-072121.jpg",
       "available": true
@@ -226,6 +226,7 @@
     }
   ]
 }
+
 
 
 
