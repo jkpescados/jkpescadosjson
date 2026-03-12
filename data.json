@@ -217,7 +217,7 @@
     {
       "id": 13,
       "category": "camarao",
-      "name": "Camarão Descascado 500g",
+      "name": "Camarão Descascado 400g",
       "description": "Camarão descascado",
       "price": 32.90,
       "unit": "500g",
@@ -226,6 +226,7 @@
     }
   ]
 }
+
 
 
 
