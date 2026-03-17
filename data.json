@@ -49,7 +49,7 @@
       "category": "peixe",
       "name": "Filé de tilápia",
       "description": "Premium",
-      "price": 51.90,
+      "price": 53.90,
       "unit": "1kg",
       "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
       "available": true
@@ -58,9 +58,9 @@
       "id": 2,
       "category": "camarao",
       "name": "Camarão empanado",
-      "description": "12 Camarões empanado com mussarela",
+      "description": "12 Camarões a milanesa",
       "price": 40.00,
-      "unit": "12 un",
+      "unit": "500g",
       "image": "https://i.postimg.cc/L4CbywTm/Whats-App-Image-2025-10-14-at-22-23-38.jpg",
       "available": true
     },
@@ -68,7 +68,7 @@
       "id": 17,
       "category": "camarao",
       "name": "Camarão empanado",
-      "description": "15 Camarões empanado com requeijão",
+      "description": "12 Camarões empanado com requeijão",
       "price": 45.00,
       "unit": "15 un",
       "image": "https://i.postimg.cc/L4CbywTm/Whats-App-Image-2025-10-14-at-22-23-38.jpg",
@@ -79,7 +79,7 @@
       "category": "peixe",
       "name": "Filé de tilápia",
       "description": "Premium",
-      "price": 26.90,
+      "price": 27.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/nrb5RRpp/f32f4cd5c0361e1ef7a6f138cbc11b5f.jpg",
       "available": true
@@ -89,7 +89,7 @@
       "category": "peixe",
       "name": "Isca de tilápia",
       "description": "Premium",
-      "price": 27.90,
+      "price": 28.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/P5tz5cJG/Whats-App-Image-2025-10-13-at-20-57-16.jpg",
       "available": true
@@ -97,7 +97,7 @@
     {
       "id": 16,
       "category": "peixe",
-      "name": "Isca de tilápia empanada",
+      "name": "Isca de tilápia empanada na Panko",
       "description": "500g Pronto para fritar",
       "price": 34.90,
       "unit": "500g",
@@ -169,7 +169,7 @@
       "category": "peixe",
       "name": "Lambari",
       "description": "Limpo 500g",
-      "price": 22.90,
+      "price": 24.90,
       "unit": "500g",
       "image": "https://i.postimg.cc/8zVyCHBf/Captura-de-tela-2025-09-07-072121.jpg",
       "available": true
@@ -178,9 +178,9 @@
       "id": 12,
       "category": "peixe",
       "name": "Merluza",
-      "description": "800g",
+      "description": "1kg",
       "price": 32.90,
-      "unit": "800g",
+      "unit": "1kg",
       "image": "https://i.postimg.cc/mgBLj08R/unnamed.jpg",
       "available": true
     },
