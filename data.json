@@ -68,9 +68,9 @@
       "id": 17,
       "category": "camarao",
       "name": "Camarão empanado",
-      "description": "12 Camarões empanado com requeijão",
+      "description": "Camarões empanado com requeijão",
       "price": 45.00,
-      "unit": "12 un",
+      "unit": "500g",
       "image": "https://i.postimg.cc/L4CbywTm/Whats-App-Image-2025-10-14-at-22-23-38.jpg",
       "available": true
     },
@@ -109,8 +109,8 @@
       "category": "salgado",
       "name": "Bolinho de Tilápia 15un",
       "description": "Pacote de bolinho congelada com 15 unidades",
-      "price": 29.90,
-      "unit": "15un",
+      "price": 34.90,
+      "unit": "9 und",
       "image": "https://i.postimg.cc/25Wg5ZmW/Whats-App-Image-2025-12-02-at-22-19-32.jpg",
       "available": true
     },
