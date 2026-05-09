@@ -107,11 +107,11 @@
     {
       "id": 5,
       "category": "salgado",
-      "name": "Bolinho de Tilápia 15un",
-      "description": "Pacote de bolinho congelada com 15 unidades",
-      "price": 34.90,
-      "unit": "9 und",
-      "image": "https://i.postimg.cc/25Wg5ZmW/Whats-App-Image-2025-12-02-at-22-19-32.jpg",
+      "name": "Bolinho de Tilápia 12un",
+      "description": "Pacote de bolinho congelada com 12 unidades",
+      "price": 39.90,
+      "unit": "2 und",
+      "image": "https://www.diadepeixe.com.br/extranet/thumbnail/crop/550x360/Receita/bolinho_tilapia_1488997145587.jpg",
       "available": true
     },
     {
@@ -189,7 +189,7 @@
       "category": "peixe",
       "name": "Manjuba",
       "description": "Limpo 500g",
-      "price": 19.90,
+      "price": 23.90,
       "unit": "500g",
       "image": "https://thumbs.dreamstime.com/b/raw-fish-manjuba-pititinga-ginga-manjubinha-anchoviella-lepidentostole-portrait-raw-fish-manjuba-pititinga-ginga-247358847.jpg",
       "available": true
